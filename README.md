@@ -5,3 +5,5 @@ This data is taken from https://www.econometrics.com/intro/sales.htm
 - analysis.ipynb: Jupyter notebook containing the analysis and predictions.
 - results.txt: Text file containing the predictions and evaluation metrics.
 - screenshot.png: Screenshot of the notebook.
+# Result
+RMSE: 15.02, R² Score: 0.27
