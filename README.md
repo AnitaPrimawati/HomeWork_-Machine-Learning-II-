@@ -7,3 +7,5 @@ This data is taken from https://www.econometrics.com/intro/sales.htm
 - screenshot.png: Screenshot of the notebook.
 # Result
 RMSE: 15.02, R² Score: 0.27
+# Usage
+Clone the repository and Run the Jupyter notebook analysis.ipynb to see the analysis and predictions.
